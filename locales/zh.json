@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "guitars": "吉他品类",
+    "guitarsShort": "吉他",
+    "analysis": "AI智能分析",
+    "analysisShort": "AI",
+    "language": "中文",
+    "languageShort": "中",
+    "languageMenu": "切换语言",
+    "homeLabel": "返回首页",
+    "primaryLabel": "主要导航",
+    "languages": { "zh": "中文", "ru": "Русский" }
+  },
+  "home": {
+    "eyebrow": "GUITAR × AI / 2026",
+    "title": "找到属于你的声音",
+    "subtitle": "从第一把吉他开始，找到属于你的演奏方式。",
+    "explore": "探索吉他",
+    "analysis": "开始智能分析",
+    "imageAlt": "Randon 原声吉他",
+    "materialLabel": "精选琴体",
+    "materialValue": "加拿大红杉",
+    "scrollNote": "声音，从选择开始",
+    "collectionNote": "Randon Acoustic Collection"
+  },
+  "guitars": {
+    "eyebrow": "依照你的成长阶段",
+    "title": "选择适合你的吉他",
+    "subtitle": "从第一次按下琴弦，到对声音有自己的判断。三条产品线，为不同阶段保留恰到好处的选择。",
+    "view": "查看系列",
+    "imageAlt": "系列代表吉他",
+    "categories": {
+      "start": {
+        "code": "START",
+        "name": "初启系列",
+        "tagline": "为第一次认真学琴的人准备。",
+        "description": "轻松按弦、友好手感与可靠音准，让你的第一把吉他更容易坚持下去。",
+        "tags": ["容易上手", "手感友好", "初学推荐"]
+      },
+      "advance": {
+        "code": "ADVANCE",
+        "name": "进阶系列",
+        "tagline": "当你开始追求更好的手感与声音。",
+        "description": "升级木材、细节与声音响应，陪伴稳定练习和更多样的演奏表达。",
+        "tags": ["更好音色", "长期练习", "进阶演奏"]
+      },
+      "master": {
+        "code": "MASTER",
+        "name": "臻选系列",
+        "tagline": "为对声音与演奏拥有更高要求的人而生。",
+        "description": "精选材料与高阶工艺，让每一次触弦都拥有更清晰的层次和动态。",
+        "tags": ["精选材料", "专业演奏", "个性体验"]
+      }
+    },
+    "detail": {
+      "back": "返回全部系列",
+      "featured": "系列代表型号",
+      "specs": "产品选型",
+      "model": "型号",
+      "body": "桶型",
+      "wood": "面板",
+      "price": "参考价",
+      "consult": "匹配我的学习计划",
+      "start": {
+        "intro": "把注意力留给和弦，而不是与乐器较劲。",
+        "body": "轻巧桶型与稳定结构兼顾舒适度和耐用性，适合日常入门练习。",
+        "products": [
+          { "model": "R2-A", "body": "OM / 41英寸", "wood": "桃花芯", "price": "¥880" },
+          { "model": "R1-AC", "body": "GA缺角 / 41英寸", "wood": "云杉", "price": "¥880" },
+          { "model": "R1-MINI", "body": "MINI / 35英寸", "wood": "云杉", "price": "¥880" }
+        ]
+      },
+      "advance": {
+        "intro": "让细腻的触弦，开始被真正听见。",
+        "body": "单板配置与更精细的声音调校，提供更开阔的动态和长期演奏潜力。",
+        "products": [
+          { "model": "RG-18LM", "body": "GA缺角 / 41英寸", "wood": "加拿大红杉", "price": "¥3090" },
+          { "model": "AS", "body": "MINI / OM / D", "wood": "桃花芯", "price": "¥1580" },
+          { "model": "AS+", "body": "MINI / OM / GC / D", "wood": "欧洲云杉", "price": "¥1680" }
+        ]
+      },
+      "master": {
+        "intro": "声音的边界，交给更好的材料与工艺。",
+        "body": "全单结构、精选木材与专业级细节，为舞台、录音和高要求演奏而生。",
+        "products": [
+          { "model": "R100-JC", "body": "JF缺角 / 41英寸", "wood": "欧洲云杉", "price": "¥4480" },
+          { "model": "R200-JC", "body": "JF缺角 / 41英寸", "wood": "欧洲云杉", "price": "¥6480" },
+          { "model": "RG-19SAC", "body": "GA缺角 / 41英寸", "wood": "欧洲云杉", "price": "¥6880" }
+        ]
+      }
+    }
+  },
+  "analysis": {
+    "eyebrow": "AI PRACTICE PROFILE",
+    "title": "找到真正适合你的学习方式",
+    "subtitle": "通过几个简单问题，分析你的水平、目标和练习习惯，为你制定专属训练路线。",
+    "start": "开始分析",
+    "resume": "继续上次分析",
+    "time": "约 2 分钟",
+    "privacy": "答案仅保存在当前设备",
+    "visualTitle": "你的节奏",
+    "visualSubtitle": "五个问题，一条清晰路线",
+    "steps": ["水平", "方向", "时间", "难点", "目标"]
+  },
+  "questions": {
+    "progress": "问题",
+    "of": "/",
+    "back": "上一步",
+    "backHome": "返回AI分析首页",
+    "next": "继续",
+    "minutes": "分钟",
+    "selectHint": "选择一个最接近你的答案",
+    "items": [
+      {
+        "key": "level",
+        "title": "你目前的吉他水平？",
+        "options": [
+          { "value": "zero", "label": "完全零基础", "note": "还没有系统接触过吉他" },
+          { "value": "basic", "label": "学过一些基础", "note": "认识常用和弦与节奏" },
+          { "value": "songs", "label": "可以弹完整歌曲", "note": "能完成基础弹唱或指弹" },
+          { "value": "advanced", "label": "进阶演奏", "note": "正在提升技巧与音乐表达" }
+        ]
+      },
+      {
+        "key": "direction",
+        "title": "你最想学习什么？",
+        "options": [
+          { "value": "singing", "label": "弹唱", "note": "用和弦与节奏陪伴歌声" },
+          { "value": "fingerstyle", "label": "指弹", "note": "旋律、和声与节奏同时展开" },
+          { "value": "electric", "label": "电吉他", "note": "音色、技巧与即兴表达" },
+          { "value": "band", "label": "乐队", "note": "学会配合并找到声部位置" },
+          { "value": "writing", "label": "作曲", "note": "把灵感变成完整作品" },
+          { "value": "hobby", "label": "兴趣学习", "note": "按自己的节奏享受音乐" }
+        ]
+      },
+      {
+        "key": "practice",
+        "title": "每天可以练习多久？",
+        "options": []
+      },
+      {
+        "key": "challenge",
+        "title": "目前最大的困难是什么？",
+        "options": [
+          { "value": "pressing", "label": "按弦困难", "note": "手指疼、杂音或按不实" },
+          { "value": "changes", "label": "和弦转换慢", "note": "换和弦时容易中断节奏" },
+          { "value": "rhythm", "label": "节奏不稳定", "note": "速度和拍点容易漂移" },
+          { "value": "routine", "label": "不知道练什么", "note": "缺少清晰的练习顺序" },
+          { "value": "notation", "label": "看不懂乐谱", "note": "六线谱和节奏标记不熟悉" },
+          { "value": "course", "label": "缺乏系统课程", "note": "知识点零散，难以持续进阶" }
+        ]
+      },
+      {
+        "key": "target",
+        "title": "你的学习目标是什么？",
+        "options": [
+          { "value": "firstSong", "label": "完整弹会第一首歌", "note": "建立可以看见的成就感" },
+          { "value": "perform", "label": "自信地为别人演奏", "note": "提升稳定度与临场表现" },
+          { "value": "repertoire", "label": "建立自己的曲目库", "note": "持续积累喜欢的作品" },
+          { "value": "create", "label": "写出自己的音乐", "note": "从模仿走向独立表达" }
+        ]
+      }
+    ]
+  },
+  "result": {
+    "eyebrow": "ANALYSIS COMPLETE",
+    "title": "你的吉他学习画像",
+    "subtitle": "基于你的选择，我们整理了一条更适合当前阶段的四周起步路线。",
+    "labels": { "level": "当前水平", "direction": "学习方向", "practice": "每日练习", "challenge": "主要问题", "target": "学习目标" },
+    "routeTitle": "推荐训练路径",
+    "weeks": [
+      { "week": "WEEK 01", "title": "姿势 + 左右手基础", "note": "建立轻松、可重复的发力方式" },
+      { "week": "WEEK 02", "title": "基础和弦 + 和弦转换", "note": "用短循环提高转换准确度" },
+      { "week": "WEEK 03", "title": "节奏训练 + 简单歌曲", "note": "把动作放进稳定拍点中" },
+      { "week": "WEEK 04", "title": "完成第一首完整弹奏", "note": "串联四周内容并留下记录" }
+    ],
+    "plan": "查看训练计划",
+    "restart": "重新分析",
+    "askAi": "向AI提问",
+    "coming": "后续版本开放",
+    "defaults": { "level": "入门", "direction": "弹唱", "challenge": "和弦转换", "target": "完成第一首歌" }
+  },
+  "footer": {
+    "note": "为每一个认真寻找声音的人。",
+    "copyright": "© 2026 Randon Guitar Lab"
+  }
+}
